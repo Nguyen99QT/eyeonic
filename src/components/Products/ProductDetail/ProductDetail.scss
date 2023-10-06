@@ -1,0 +1,36 @@
+.item-info {
+    padding: 10px;
+    
+}
+.title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Martian Mono', monospace;
+}
+.contactTitle {
+    font-weight: 500;
+    font-size: 18px;
+}
+.sub-title {
+    margin-left: 10%;
+    font-weight: 600;
+    font-size: 28px;
+    color: rgb(226, 79, 79);
+}
+.info {
+    font-size: 24px;
+    font-weight: 500;
+}
+.icon{
+    margin-right: 5px;
+    margin-bottom: 2px;
+    font-size: 24px;
+    
+}
+.Mail{
+    color: rgb(72, 102, 193);
+}
+.location{
+    color: red;
+}

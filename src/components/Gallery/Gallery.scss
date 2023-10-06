@@ -1,0 +1,25 @@
+.gallery{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    .title{
+        color: var(--heading_color);
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .underline{
+        
+            text-align: center;
+            width: 100px;
+        
+
+    }
+}
+.category{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    .but{
+        margin: 0 10px;
+    }
+}

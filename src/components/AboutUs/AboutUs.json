@@ -1,0 +1,22 @@
+[
+    {
+        "id":"1",
+        "title":"About Us"
+    },
+    {
+        "id":"2",
+        "title":"Privacy Policy"
+    },
+    {
+        "id":"3",
+        "title":"Term of use"
+    },
+    {
+        "id":"4",
+        "title":"Guarantee"
+    },
+    {
+        "id":"5",
+        "title":"Payments"
+    }
+]

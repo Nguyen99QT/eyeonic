@@ -1,0 +1,29 @@
+
+
+.Brand_logo{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: #fff;
+    border-radius: 15px;
+}
+.Logo_Brand{
+    width: 100%;
+    
+}
+.brand-live{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: var(--heading_color);
+    font-family: 'Martian Mono', monospace;
+    h1{
+        text-align: center;
+    }
+}
+
+.pic-banner{
+    margin: 10px;
+    width: 90%;
+    border-radius: 2%;
+}
