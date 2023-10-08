@@ -27,6 +27,55 @@
     },
     {
         "Img": {
+            "ID": "890",
+            "Brand": {
+                "ID": 6000,
+                "Name": "Oakley"
+            },
+            "Src": {
+                "img1": "/image/Oakley/SunglassesOakley/sun4/sun41.jpg",
+                "img2": "/image/Oakley/SunglassesOakley/sun4/sun42.jpg",
+                "img3": "/image/Oakley/SunglassesOakley/sun4/sun43.jpg"
+            },
+            "Word": "/image/Oakley/SunglassesOakley/sun4/sun4.docx",
+            "Type": {
+                "ID": 1,
+                "name": "SUNGLASSES"
+            },
+            "Gender": "Men",
+            "Year": 2014,
+            "Color": "Polished Black",
+            "Price": 350,
+            "Detail": "As pioneers of innovation and high performance optics, Oakley® ignites and empowers the quest for personal progression and individual expression. Rooted in more than 45 years of design and innovation history with products world-class and everyday athletes around the globe depend on, Oakley eyewear is built to perform for sport and life."
+        }
+    },
+    {
+        "Img": {
+            "ID": "210",
+            "Brand": {
+                "ID": 4000,
+                "Name": "Gucci"
+            },
+            "Src": {
+                "img1": "/image/Gucci/SunglassesGucci/sun1/sun11.jpg",
+                "img2": "/image/Gucci/SunglassesGucci/sun1/sun12.jpg",
+                "img3": "/image/Gucci/SunglassesGucci/sun1/sun13.jpg"
+            },
+            "Word": "/image/Gucci/SunglassesGucci/sun1/sun1.docx",
+            "Search": "gucci",
+            "Type": {
+                "ID": 1,
+                "name": "SUNGLASSES"
+            },
+            "Gender": "Women",
+            "Year": 2020,
+            "Color": "Ivory White",
+            "Price": 350,
+            "Detail": "Influential, innovative and progressive. Gucci is reinventing a wholly modern approach to fashion. Under the new vision of creative director Alessandro Michele, the House has redefined luxury for the 21st century. With distinctive and unconventional creativity, Gucci Eyewear expresses a distinguished contemporary spirit, fully representing the House’s Italian eclectic aesthetic."
+        }
+    },
+    {
+        "Img": {
             "ID": "4",
             "Brand": {
                 "ID": 3000,
@@ -48,6 +97,30 @@
             "Color": "Gold",
             "Price": 188,
             "Detail": "Born out of necessity in 1937, Ray-Ban® has been at the leading edge of developing high quality sunglasses to protect pilots from the sun's harsh rays. Since then, Ray-Ban has been the eyewear of choice for visionaries and cultural creators everywhere to express their fearless and most authentic selves. "
+        }
+    },
+    {
+        "Img": {
+            "ID": "882",
+            "Brand": {
+                "ID": 6000,
+                "Name": "Oakley"
+            },
+            "Src": {
+                "img1": "/image/Oakley/SunglassesOakley/sun3/sun31.jpg",
+                "img2": "/image/Oakley/SunglassesOakley/sun3/sun32.jpg",
+                "img3": "/image/Oakley/SunglassesOakley/sun3/sun33.jpg"
+            },
+            "Word": "/image/Oakley/SunglassesOakley/sun3/sun3.docx",
+            "Type": {
+                "ID": 1,
+                "name": "SUNGLASSES"
+            },
+            "Gender": "Men",
+            "Year": 2021,
+            "Color": " Transparent Grey",
+            "Price": 150,
+            "Detail": "As pioneers of innovation and high performance optics, Oakley® ignites and empowers the quest for personal progression and individual expression. Rooted in more than 45 years of design and innovation history with products world-class and everyday athletes around the globe depend on, Oakley eyewear is built to perform for sport and life."
         }
     },
     {
@@ -78,6 +151,31 @@
     },
     {
         "Img": {
+            "ID": "744",
+            "Brand": {
+                "ID": 5000,
+                "Name": "Hugo Boss"
+            },
+            "Src": {
+                "img1": "/image/Hugo Boss/Hugo-Boss SunGlasses/sun1/sun11.jpg",
+                "img2": "/image/Hugo Boss/Hugo-Boss SunGlasses/sun1/sun12.jpg",
+                "img3": "/image/Hugo Boss/Hugo-Boss SunGlasses/sun1/sun13.jpg"
+            },
+            "Word": "/image/Hugo Boss/Hugo-Boss SunGlasses/sun1/sun1.docx",
+            "Search": "boss hugo",
+            "Type": {
+                "ID": 1,
+                "name": "SUNGLASSES"
+            },
+            "Gender": "Men",
+            "Year": 2022,
+            "Color": "Matte Ruthenium Grey",
+            "Price": 130,
+            "Detail": "Beautiful, sharp, flexible alloy frame, adjustable,strong hinges, soft and light folding. Lightweight polycarbonate lenses with uv400 protection, UV rays, and lenses that are cool and comfortable to wear.  Full accessories included. Design youthful, beautiful and sharp , delicate, luxurious and classy."
+        }
+    },
+    {
+        "Img": {
             "ID": "7",
             "Brand": {
                 "ID": 3000,
@@ -100,6 +198,30 @@
             "Color": "Matte Gunmetal Grey",
             "Price": 88,
             "Detail": "Born out of necessity in 1937, Ray-Ban® has been at the leading edge of developing high quality sunglasses to protect pilots from the sun’s harsh rays. Since then, Ray-Ban has been the eyewear of choice for visionaries and cultural creators everywhere to express their fearless and most authentic selves. "
+        }
+    },
+    {
+        "Img": {
+            "ID": "823",
+            "Brand": {
+                "ID": 6000,
+                "Name": "Oakley"
+            },
+            "Src": {
+                "img1": "/image/Oakley/Oakley/Oakley2/oakley21.jpg",
+                "img2": "/image/Oakley/Oakley/Oakley2/oakley22.jpg",
+                "img3": "/image/Oakley/Oakley/Oakley2/oakley23.jpg"
+            },
+            "Word": "/image/Oakley/Oakley/Oakley2/oakley2.docx",
+            "Type": {
+                "ID": 2,
+                "name": "GLASSES"
+            },
+            "Gender": "Men",
+            "Year": 2015,
+            "Color": "Grey Shadow",
+            "Price": 320,
+            "Detail": "As pioneers of innovation and high performance optics, Oakley® ignites and empowers the quest for personal progression and individual expression. Rooted in more than 45 years of design and innovation history with products world-class and everyday athletes around the globe depend on, Oakley eyewear is built to perform for sport and life."
         }
     },
     {
@@ -152,32 +274,7 @@
             "Detail": "Born out of necessity in 1937, Ray-Ban® has been at the leading edge of developing high quality sunglasses to protect pilots from the sun’s harsh rays. Since then, Ray-Ban has been the eyewear of choice for visionaries and cultural creators everywhere to express their fearless and most authentic selves. "
         }
     },
-    {
-        "Img": {
-            "ID": "86",
-            "Brand": {
-                "ID": 3000,
-                "Name": "Ray-Ban"
-            },
-            "Src": {
-                "img1": "/image/Ray-ban/Ray-ban Sunglasses/sun3/sun31.jpg",
-                "img2": "/image/Ray-ban/Ray-ban Sunglasses/sun3/sun32.jpg",
-                "img3": "/image/Ray-ban/Ray-ban Sunglasses/sun3/sun33.jpg"
-            },
-            "Word": "/image/Ray-ban/Ray-ban Sunglasses/sun3/rayban-sun3.docx",
-            "Search": "ray ban",
-            "Type": {
-                "ID": 1,
-                "name": "SUNGLASSES"
-            },
-            "Gender": "Unisex",
-            "Year": 2021,
-            "Color": "Gold",
-            "Price": 120,
-            "Detail": "Born out of necessity in 1937, Ray-Ban® has been at the leading edge of developing high quality sunglasses to protect pilots from the sun’s harsh rays. Since then, Ray-Ban has been the eyewear of choice for visionaries and cultural creators everywhere to express their fearless and most authentic selves. ",
-            "Sell": "1"
-        }
-    },
+    
     {
         "Img": {
             "ID": "66",
@@ -306,31 +403,7 @@
             "Detail": "Influential, innovative and progressive. Gucci is reinventing a wholly modern approach to fashion. Under the new vision of creative director Alessandro Michele, the House has redefined luxury for the 21st century. With distinctive and unconventional creativity, Gucci Eyewear expresses a distinguished contemporary spirit, fully representing the House’s Italian eclectic aesthetic."
         }
     },
-    {
-        "Img": {
-            "ID": "210",
-            "Brand": {
-                "ID": 4000,
-                "Name": "Gucci"
-            },
-            "Src": {
-                "img1": "/image/Gucci/SunglassesGucci/sun1/sun11.jpg",
-                "img2": "/image/Gucci/SunglassesGucci/sun1/sun12.jpg",
-                "img3": "/image/Gucci/SunglassesGucci/sun1/sun13.jpg"
-            },
-            "Word": "/image/Gucci/SunglassesGucci/sun1/sun1.docx",
-            "Search": "gucci",
-            "Type": {
-                "ID": 1,
-                "name": "SUNGLASSES"
-            },
-            "Gender": "Women",
-            "Year": 2020,
-            "Color": "Ivory White",
-            "Price": 350,
-            "Detail": "Influential, innovative and progressive. Gucci is reinventing a wholly modern approach to fashion. Under the new vision of creative director Alessandro Michele, the House has redefined luxury for the 21st century. With distinctive and unconventional creativity, Gucci Eyewear expresses a distinguished contemporary spirit, fully representing the House’s Italian eclectic aesthetic."
-        }
-    },
+    
     {
         "Img": {
             "ID": "222",
@@ -510,31 +583,7 @@
             "Detail": "Beautiful, sharp, flexible alloy frame, adjustable,strong hinges, soft and light folding. Lightweight polycarbonate lenses with uv400 protection, UV rays, and lenses that are cool and comfortable to wear.  Full accessories included. Design youthful, beautiful and sharp , delicate, luxurious and classy."
         }
     },
-    {
-        "Img": {
-            "ID": "744",
-            "Brand": {
-                "ID": 5000,
-                "Name": "Hugo Boss"
-            },
-            "Src": {
-                "img1": "/image/Hugo Boss/Hugo-Boss SunGlasses/sun1/sun11.jpg",
-                "img2": "/image/Hugo Boss/Hugo-Boss SunGlasses/sun1/sun12.jpg",
-                "img3": "/image/Hugo Boss/Hugo-Boss SunGlasses/sun1/sun13.jpg"
-            },
-            "Word": "/image/Hugo Boss/Hugo-Boss SunGlasses/sun1/sun1.docx",
-            "Search": "boss hugo",
-            "Type": {
-                "ID": 1,
-                "name": "SUNGLASSES"
-            },
-            "Gender": "Men",
-            "Year": 2022,
-            "Color": "Matte Ruthenium Grey",
-            "Price": 130,
-            "Detail": "Beautiful, sharp, flexible alloy frame, adjustable,strong hinges, soft and light folding. Lightweight polycarbonate lenses with uv400 protection, UV rays, and lenses that are cool and comfortable to wear.  Full accessories included. Design youthful, beautiful and sharp , delicate, luxurious and classy."
-        }
-    },
+    
     {
         "Img": {
             "ID": "752",
@@ -637,28 +686,31 @@
     },
     {
         "Img": {
-            "ID": "823",
+            "ID": "86",
             "Brand": {
-                "ID": 6000,
-                "Name": "Oakley"
+                "ID": 3000,
+                "Name": "Ray-Ban"
             },
             "Src": {
-                "img1": "/image/Oakley/Oakley/Oakley2/oakley21.jpg",
-                "img2": "/image/Oakley/Oakley/Oakley2/oakley22.jpg",
-                "img3": "/image/Oakley/Oakley/Oakley2/oakley23.jpg"
+                "img1": "/image/Ray-ban/Ray-ban Sunglasses/sun3/sun31.jpg",
+                "img2": "/image/Ray-ban/Ray-ban Sunglasses/sun3/sun32.jpg",
+                "img3": "/image/Ray-ban/Ray-ban Sunglasses/sun3/sun33.jpg"
             },
-            "Word": "/image/Oakley/Oakley/Oakley2/oakley2.docx",
+            "Word": "/image/Ray-ban/Ray-ban Sunglasses/sun3/rayban-sun3.docx",
+            "Search": "ray ban",
             "Type": {
-                "ID": 2,
-                "name": "GLASSES"
+                "ID": 1,
+                "name": "SUNGLASSES"
             },
-            "Gender": "Men",
-            "Year": 2015,
-            "Color": "Grey Shadow",
-            "Price": 320,
-            "Detail": "As pioneers of innovation and high performance optics, Oakley® ignites and empowers the quest for personal progression and individual expression. Rooted in more than 45 years of design and innovation history with products world-class and everyday athletes around the globe depend on, Oakley eyewear is built to perform for sport and life."
+            "Gender": "Unisex",
+            "Year": 2021,
+            "Color": "Gold",
+            "Price": 120,
+            "Detail": "Born out of necessity in 1937, Ray-Ban® has been at the leading edge of developing high quality sunglasses to protect pilots from the sun’s harsh rays. Since then, Ray-Ban has been the eyewear of choice for visionaries and cultural creators everywhere to express their fearless and most authentic selves. ",
+            "Sell": "1"
         }
     },
+    
     {
         "Img": {
             "ID": "833",
@@ -755,54 +807,8 @@
             "Detail": "As pioneers of innovation and high performance optics, Oakley® ignites and empowers the quest for personal progression and individual expression. Rooted in more than 45 years of design and innovation history with products world-class and everyday athletes around the globe depend on, Oakley eyewear is built to perform for sport and life."
         }
     },
-    {
-        "Img": {
-            "ID": "882",
-            "Brand": {
-                "ID": 6000,
-                "Name": "Oakley"
-            },
-            "Src": {
-                "img1": "/image/Oakley/SunglassesOakley/sun3/sun31.jpg",
-                "img2": "/image/Oakley/SunglassesOakley/sun3/sun32.jpg",
-                "img3": "/image/Oakley/SunglassesOakley/sun3/sun33.jpg"
-            },
-            "Word": "/image/Oakley/SunglassesOakley/sun3/sun3.docx",
-            "Type": {
-                "ID": 1,
-                "name": "SUNGLASSES"
-            },
-            "Gender": "Men",
-            "Year": 2021,
-            "Color": " Transparent Grey",
-            "Price": 150,
-            "Detail": "As pioneers of innovation and high performance optics, Oakley® ignites and empowers the quest for personal progression and individual expression. Rooted in more than 45 years of design and innovation history with products world-class and everyday athletes around the globe depend on, Oakley eyewear is built to perform for sport and life."
-        }
-    },
-    {
-        "Img": {
-            "ID": "890",
-            "Brand": {
-                "ID": 6000,
-                "Name": "Oakley"
-            },
-            "Src": {
-                "img1": "/image/Oakley/SunglassesOakley/sun4/sun41.jpg",
-                "img2": "/image/Oakley/SunglassesOakley/sun4/sun42.jpg",
-                "img3": "/image/Oakley/SunglassesOakley/sun4/sun43.jpg"
-            },
-            "Word": "/image/Oakley/SunglassesOakley/sun4/sun4.docx",
-            "Type": {
-                "ID": 1,
-                "name": "SUNGLASSES"
-            },
-            "Gender": "Men",
-            "Year": 2014,
-            "Color": "Polished Black",
-            "Price": 350,
-            "Detail": "As pioneers of innovation and high performance optics, Oakley® ignites and empowers the quest for personal progression and individual expression. Rooted in more than 45 years of design and innovation history with products world-class and everyday athletes around the globe depend on, Oakley eyewear is built to perform for sport and life."
-        }
-    },
+    
+    
     {
         "Img": {
             "ID": "2001",

@@ -31,6 +31,11 @@ function Search() {
     ) {
       return item;
     }
+    else if (
+      item.Img.Type.name.toLowerCase().includes(fItem.toLocaleLowerCase())
+    ) {
+      return item;
+    }
   });
 
   return (
