@@ -12,6 +12,9 @@ function Pagination({pageCount, handlePageClick}) {
         pageCount={pageCount}
         previousLabel="< previous"
         renderOnZeroPageCount={null}
+        breakClassName="break-class"
+        containerClassName={"pagination"}
+        activeClassName="active_pagination"
       />
     </div>
   );

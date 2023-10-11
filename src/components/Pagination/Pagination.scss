@@ -1,6 +1,21 @@
-.pagination{
-    a{
+.pagination {
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    a {
         text-decoration: none;
         list-style: none;
+        margin: 10px;
     }
+}
+.active_pagination{
+    background-color: rgb(240,128,128);
+    color: white;
+    font-weight: bold;
+    border: 1px solid;
+    padding: 5px;
+    border-radius: 5px;
 }
