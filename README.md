@@ -5,13 +5,14 @@ Project title: EYEONIC
 
 ========> Group 3 <=========
 
-3 collaborators:
+4 collaborators:
 
 Group members Name Student ID
 
                         Mai Duy Anh             Student1477170
                         Trần Cao Nguyên         Student1470283
                         Dương Phú Khoa          Student1477475
+                        Phan Phước Vũ           Student1477228
  
 ============================
 
