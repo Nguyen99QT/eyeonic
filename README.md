@@ -24,7 +24,7 @@ eProject published at: https://eyeonic.vercel.app/
 
 ============================
 
-eProject video published at: 
+eProject video published at: https://www.youtube.com/watch?v=i9kuqzojEL8
 
 ============================
 
