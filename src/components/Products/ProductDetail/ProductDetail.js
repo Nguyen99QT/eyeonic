@@ -9,6 +9,8 @@ import { MdEmail } from "react-icons/md";
 import { BsFillTelephoneFill } from "react-icons/bs";
 import { BsGeoAltFill } from "react-icons/bs";
 
+import Scroll from '../../ScrollToTop/ScrollToTop'
+
 function ProductDetail() {
   const { id } = useParams();
   let item = Product.filter((item) => item.Img.ID === id);
@@ -16,6 +18,7 @@ function ProductDetail() {
   item = item[0];
   return (
     <Container>
+      <Scroll/>
       <Row>
         <Col sm={12} md={6}>
           <img src={item.Img.Src.img1} alt={item.Img.ID} width="100%" />
@@ -57,8 +60,10 @@ function ProductDetail() {
           id="uncontrolled-tab-example"
           className="mb-3 mt-3"
         >
-          <Tab eventKey="detail" title="Description">
-            <p>{item.Img.Detail}</p>
+          <Tab eventKey="detail" title="Description" className="description">
+            <p>{item.Img.Detail.d1}</p>
+            <p>{item.Img.Detail.d2}</p>
+            <p>{item.Img.Detail.d3}</p>
           </Tab>
           <Tab eventKey="download" title="Download">
             <label>

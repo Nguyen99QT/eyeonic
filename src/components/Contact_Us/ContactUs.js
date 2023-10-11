@@ -151,7 +151,7 @@ function ContactUs() {
                 onChange={handleTelChange}
               />
               <Form.Control.Feedback type="invalid">
-                Please enter your phone.
+                Please enter your phone number.
               </Form.Control.Feedback>
             </Form.Group>
             <Form.Group className="mb-3">

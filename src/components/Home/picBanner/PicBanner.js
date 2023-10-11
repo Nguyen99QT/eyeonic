@@ -13,22 +13,22 @@ function PicBanner() {
     <Row className="mt-5">
         
       <Col xs={12} sm={6} md={4}>
-        <img src={pic1} alt="beautiful glasses" className="pic-banner"/>
+        <img src={pic1} alt="beautiful glasses" className="pic-banner product-card"/>
       </Col>
       <Col xs={12} sm={6} md={4}>
-        <img src={pic2} alt="beautiful glasses" className="pic-banner"/>
+        <img src={pic2} alt="beautiful glasses" className="pic-banner product-card"/>
       </Col>
       <Col xs={12} sm={6} md={4}>
-        <img src={pic3} alt="beautiful glasses" className="pic-banner"/>
+        <img src={pic3} alt="beautiful glasses" className="pic-banner product-card"/>
       </Col>
       <Col xs={12} sm={6} md={4}>
-        <img src={pic4} alt="beautiful glasses" className="pic-banner"/>
+        <img src={pic4} alt="beautiful glasses" className="pic-banner product-card"/>
       </Col>
       <Col xs={12} sm={6} md={4}>
-        <img src={pic5} alt="beautiful glasses" className="pic-banner"/>
+        <img src={pic5} alt="beautiful glasses" className="pic-banner product-card"/>
       </Col>
       <Col xs={12} sm={6} md={4}>
-        <img src={pic6} alt="beautiful glasses" className="pic-banner"/>
+        <img src={pic6} alt="beautiful glasses" className="pic-banner product-card"/>
       </Col>
       
     </Row>

@@ -33,23 +33,23 @@ function Home() {
       <Row className="mt-3 Brand_logo">
         <Col sm={6} md={4}>
           <a href="/brand/Gucci">
-            <img src={Logo_Gucci} alt="Logo_gucci" className="m-5 Logo_Brand" />
+            <img src={Logo_Gucci} alt="Logo_gucci" className="m-5 Logo_Brand product-img" />
           </a>
         </Col>
         <Col sm={6} md={4}>
-          <a href="/brand/Ray-Ban"><img src={Logo_Rayban} alt="Logo_Rayban" className="Logo_Brand" /> </a>
+          <a href="/brand/Ray-Ban"><img src={Logo_Rayban} alt="Logo_Rayban" className="Logo_Brand product-img" /> </a>
           
         </Col>
         <Col sm={6} md={4}>
-          <a href="/brand/Burberry"><img src={Logo_Burberry} alt="Logo_Burberry" className="Logo_Brand" /></a>
+          <a href="/brand/Burberry"><img src={Logo_Burberry} alt="Logo_Burberry" className="Logo_Brand product-img" /></a>
           
         </Col>
         <Col sm={6} md={4}>
-          <a href="/brand/Oakley"><img src={Logo_Oakley} alt="Logo_Oakley" className="Logo_Brand" /></a>
+          <a href="/brand/Oakley"><img src={Logo_Oakley} alt="Logo_Oakley" className="Logo_Brand product-img" /></a>
           
         </Col>
         <Col sm={6} md={4}>
-          <a href="/brand/Hugo Boss"><img src={Logo_BossHugo} alt="Logo_BossHugo" className="Logo_Brand" /></a>
+          <a href="/brand/Hugo Boss"><img src={Logo_BossHugo} alt="Logo_BossHugo" className="Logo_Brand product-img" /></a>
           
         </Col>
       </Row>

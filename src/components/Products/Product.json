@@ -21,7 +21,11 @@
             "Year": 2011,
             "Color": "Shiny Black",
             "Price": 200,
-            "Detail": "Beautiful, sharp, flexible alloy frame, adjustable,strong hinges, soft and light folding. Lightweight polycarbonate lenses with uv400 protection, UV rays, and lenses that are cool and comfortable to wear.  Full accessories included. Design youthful, beautiful and sharp , delicate, luxurious and classy. ",
+            "Detail": {
+                "d1": "Born out of necessity in 1937, Ray-Ban® has been at the leading edge of developing high quality sunglasses to protect pilots from the sun's harsh rays. Since then, Ray-Ban has been the eyewear of choice for visionaries and cultural creators everywhere to express their fearless and most authentic selves.",
+                "d2": "Timeless style, authenticity and freedom of expression are the core values of Ray-Ban, a leader in sun and prescription eyewear for generations. Since the introduction of the iconic Aviator model created for the aviators of the United States Army, Ray-Ban has been at the forefront of cultural change, becoming a symbol of self-expression, worn by visionaries all around the world.",
+                "d3": "As a reference, you may want to check the size of your current eyewear, by looking at the inner side of the temple. Should you see a fourth number at the end, this refers to lens height (i.e. 50/21/145/46.9)."
+            },
             "Sell": "1"
         }
     },
@@ -46,7 +50,11 @@
             "Year": 2014,
             "Color": "Polished Black",
             "Price": 350,
-            "Detail": "As pioneers of innovation and high performance optics, Oakley® ignites and empowers the quest for personal progression and individual expression. Rooted in more than 45 years of design and innovation history with products world-class and everyday athletes around the globe depend on, Oakley eyewear is built to perform for sport and life."
+            "Detail": {
+                "d1": "As pioneers of innovation and high performance optics, Oakley® ignites and empowers the quest for personal progression and individual expression. Rooted in more than 45 years of design and innovation history with products world-class and everyday athletes around the globe depend on, Oakley eyewear is built to perform for sport and life.",
+                "d2": "The Oakley pursuit of performance innovation is unrivaled. Its eyewear pushes the limit to create stylish gear that performs with purpose.",
+                "d3": "Frame size is usually defined by lens width, bridge width and temple length. These values are always displayed in that order, in millimeters."
+            }
         }
     },
     {
@@ -71,7 +79,11 @@
             "Year": 2020,
             "Color": "Ivory White",
             "Price": 350,
-            "Detail": "Influential, innovative and progressive. Gucci is reinventing a wholly modern approach to fashion. Under the new vision of creative director Alessandro Michele, the House has redefined luxury for the 21st century. With distinctive and unconventional creativity, Gucci Eyewear expresses a distinguished contemporary spirit, fully representing the House’s Italian eclectic aesthetic."
+            "Detail": {
+                "d1": "Influential, innovative and progressive. Gucci is reinventing a wholly modern approach to fashion. Under the new vision of creative director Alessandro Michele, the House has redefined luxury for the 21st century. With distinctive and unconventional creativity, Gucci Eyewear expresses a distinguished contemporary spirit, fully representing the House’s Italian eclectic aesthetic.",
+                "d2": "Frame size is usually defined by lens width, bridge width and temple length. These values are always displayed in that order, in millimeters.",
+                "d3": "As a reference, you may want to check the size of your current eyewear, by looking at the inner side of the temple. Should you see a fourth number at the end, this refers to lens height (i.e. 56/18/140/50)."
+            }
         }
     },
     {
@@ -96,7 +108,11 @@
             "Year": 2017,
             "Color": "Gold",
             "Price": 188,
-            "Detail": "Born out of necessity in 1937, Ray-Ban® has been at the leading edge of developing high quality sunglasses to protect pilots from the sun's harsh rays. Since then, Ray-Ban has been the eyewear of choice for visionaries and cultural creators everywhere to express their fearless and most authentic selves. "
+            "Detail": {
+                "d1": "Born out of necessity in 1937, Ray-Ban® has been at the leading edge of developing high quality sunglasses to protect pilots from the sun's harsh rays. Since then, Ray-Ban has been the eyewear of choice for visionaries and cultural creators everywhere to express their fearless and most authentic selves.",
+                "d2": "Timeless style, authenticity and freedom of expression are the core values of Ray-Ban, a leader in sun and prescription eyewear for generations. Since the introduction of the iconic Aviator model created for the aviators of the United States Army, Ray-Ban has been at the forefront of cultural change, becoming a symbol of self-expression, worn by visionaries all around the world.",
+                "d3": "As a reference, you may want to check the size of your current eyewear, by looking at the inner side of the temple. Should you see a fourth number at the end, this refers to lens height (i.e. 50/21/145/46.9)."
+            }
         }
     },
     {
@@ -120,7 +136,11 @@
             "Year": 2021,
             "Color": " Transparent Grey",
             "Price": 150,
-            "Detail": "As pioneers of innovation and high performance optics, Oakley® ignites and empowers the quest for personal progression and individual expression. Rooted in more than 45 years of design and innovation history with products world-class and everyday athletes around the globe depend on, Oakley eyewear is built to perform for sport and life."
+            "Detail": {
+                "d1": "As pioneers of innovation and high performance optics, Oakley® ignites and empowers the quest for personal progression and individual expression. Rooted in more than 45 years of design and innovation history with products world-class and everyday athletes around the globe depend on, Oakley eyewear is built to perform for sport and life.",
+                "d2": "The Oakley pursuit of performance innovation is unrivaled. Its eyewear pushes the limit to create stylish gear that performs with purpose.",
+                "d3": "Frame size is usually defined by lens width, bridge width and temple length. These values are always displayed in that order, in millimeters."
+            }
         }
     },
     {
@@ -145,7 +165,11 @@
             "Year": 2020,
             "Color": "Transparent Crystal",
             "Price": 142,
-            "Detail": "Born out of necessity in 1937, Ray-Ban® has been at the leading edge of developing high quality sunglasses to protect pilots from the sun's harsh rays. Since then, Ray-Ban has been the eyewear of choice for visionaries and cultural creators everywhere to express their fearless and most authentic selves. ",
+            "Detail": {
+                "d1": "Born out of necessity in 1937, Ray-Ban® has been at the leading edge of developing high quality sunglasses to protect pilots from the sun's harsh rays. Since then, Ray-Ban has been the eyewear of choice for visionaries and cultural creators everywhere to express their fearless and most authentic selves.",
+                "d2": "Timeless style, authenticity and freedom of expression are the core values of Ray-Ban, a leader in sun and prescription eyewear for generations. Since the introduction of the iconic Aviator model created for the aviators of the United States Army, Ray-Ban has been at the forefront of cultural change, becoming a symbol of self-expression, worn by visionaries all around the world.",
+                "d3": "As a reference, you may want to check the size of your current eyewear, by looking at the inner side of the temple. Should you see a fourth number at the end, this refers to lens height (i.e. 50/21/145/46.9)."
+            },
             "Sell": "1"
         }
     },
@@ -171,7 +195,11 @@
             "Year": 2022,
             "Color": "Matte Ruthenium Grey",
             "Price": 130,
-            "Detail": "Beautiful, sharp, flexible alloy frame, adjustable,strong hinges, soft and light folding. Lightweight polycarbonate lenses with uv400 protection, UV rays, and lenses that are cool and comfortable to wear.  Full accessories included. Design youthful, beautiful and sharp , delicate, luxurious and classy."
+            "Detail": {
+                "d1": "Beautiful, sharp, flexible alloy frame, adjustable,strong hinges, soft and light folding. Lightweight polycarbonate lenses with uv400 protection, UV rays, and lenses that are cool and comfortable to wear.  Full accessories included. Design youthful, beautiful and sharp , delicate, luxurious and classy.",
+                "d2": "Boss is the personification of high-end fashion. With its innovative designs and classic appearance, Boss Prescription Glasses are made for showing as well as wearing.Made from light, resistant materials such as acetate and brushed metals, your Boss accompaniment is sure to last the test of time, whatever the occasion or activity faced.",
+                "d3": "As a reference, you may want to check the size of your current eyewear, by looking at the inner side of the temple. Should you see a fourth number at the end, this refers to lens height (i.e. 56/18/140/50)."
+            }
         }
     },
     {
@@ -197,7 +225,11 @@
             "Year": 2014,
             "Color": "Matte Gunmetal Grey",
             "Price": 88,
-            "Detail": "Born out of necessity in 1937, Ray-Ban® has been at the leading edge of developing high quality sunglasses to protect pilots from the sun’s harsh rays. Since then, Ray-Ban has been the eyewear of choice for visionaries and cultural creators everywhere to express their fearless and most authentic selves. "
+            "Detail": {
+                "d1": "Born out of necessity in 1937, Ray-Ban® has been at the leading edge of developing high quality sunglasses to protect pilots from the sun's harsh rays. Since then, Ray-Ban has been the eyewear of choice for visionaries and cultural creators everywhere to express their fearless and most authentic selves.",
+                "d2": "Timeless style, authenticity and freedom of expression are the core values of Ray-Ban, a leader in sun and prescription eyewear for generations. Since the introduction of the iconic Aviator model created for the aviators of the United States Army, Ray-Ban has been at the forefront of cultural change, becoming a symbol of self-expression, worn by visionaries all around the world.",
+                "d3": "As a reference, you may want to check the size of your current eyewear, by looking at the inner side of the temple. Should you see a fourth number at the end, this refers to lens height (i.e. 50/21/145/46.9)."
+            }
         }
     },
     {
@@ -221,7 +253,11 @@
             "Year": 2015,
             "Color": "Grey Shadow",
             "Price": 320,
-            "Detail": "As pioneers of innovation and high performance optics, Oakley® ignites and empowers the quest for personal progression and individual expression. Rooted in more than 45 years of design and innovation history with products world-class and everyday athletes around the globe depend on, Oakley eyewear is built to perform for sport and life."
+            "Detail": {
+                "d1": "As pioneers of innovation and high performance optics, Oakley® ignites and empowers the quest for personal progression and individual expression. Rooted in more than 45 years of design and innovation history with products world-class and everyday athletes around the globe depend on, Oakley eyewear is built to perform for sport and life.",
+                "d2": "The Oakley pursuit of performance innovation is unrivaled. Its eyewear pushes the limit to create stylish gear that performs with purpose.",
+                "d3": "Frame size is usually defined by lens width, bridge width and temple length. These values are always displayed in that order, in millimeters."
+            }
         }
     },
     {
@@ -246,7 +282,11 @@
             "Year": 2020,
             "Color": "Black",
             "Price": 82,
-            "Detail": "Born out of necessity in 1937, Ray-Ban® has been at the leading edge of developing high quality sunglasses to protect pilots from the sun’s harsh rays. Since then, Ray-Ban has been the eyewear of choice for visionaries and cultural creators everywhere to express their fearless and most authentic selves."
+            "Detail": {
+                "d1": "Born out of necessity in 1937, Ray-Ban® has been at the leading edge of developing high quality sunglasses to protect pilots from the sun's harsh rays. Since then, Ray-Ban has been the eyewear of choice for visionaries and cultural creators everywhere to express their fearless and most authentic selves.",
+                "d2": "Timeless style, authenticity and freedom of expression are the core values of Ray-Ban, a leader in sun and prescription eyewear for generations. Since the introduction of the iconic Aviator model created for the aviators of the United States Army, Ray-Ban has been at the forefront of cultural change, becoming a symbol of self-expression, worn by visionaries all around the world.",
+                "d3": "As a reference, you may want to check the size of your current eyewear, by looking at the inner side of the temple. Should you see a fourth number at the end, this refers to lens height (i.e. 50/21/145/46.9)."
+            }
         }
     },
     {
@@ -271,10 +311,13 @@
             "Year": 2019,
             "Color": "Gold",
             "Price": 110,
-            "Detail": "Born out of necessity in 1937, Ray-Ban® has been at the leading edge of developing high quality sunglasses to protect pilots from the sun’s harsh rays. Since then, Ray-Ban has been the eyewear of choice for visionaries and cultural creators everywhere to express their fearless and most authentic selves. "
+            "Detail": {
+                "d1": "Born out of necessity in 1937, Ray-Ban® has been at the leading edge of developing high quality sunglasses to protect pilots from the sun's harsh rays. Since then, Ray-Ban has been the eyewear of choice for visionaries and cultural creators everywhere to express their fearless and most authentic selves.",
+                "d2": "Timeless style, authenticity and freedom of expression are the core values of Ray-Ban, a leader in sun and prescription eyewear for generations. Since the introduction of the iconic Aviator model created for the aviators of the United States Army, Ray-Ban has been at the forefront of cultural change, becoming a symbol of self-expression, worn by visionaries all around the world.",
+                "d3": "As a reference, you may want to check the size of your current eyewear, by looking at the inner side of the temple. Should you see a fourth number at the end, this refers to lens height (i.e. 50/21/145/46.9)."
+            }
         }
     },
-    
     {
         "Img": {
             "ID": "66",
@@ -297,7 +340,11 @@
             "Year": 2022,
             "Color": "Striped Blue",
             "Price": 100,
-            "Detail": "Influential, innovative and progressive. Gucci is reinventing a wholly modern approach to fashion. Under the new vision of creative director Alessandro Michele, the House has redefined luxury for the 21st century. With distinctive and unconventional creativity, Gucci Eyewear expresses a distinguished contemporary spirit, fully representing the House’s Italian eclectic aesthetic. "
+            "Detail": {
+                "d1": "Born out of necessity in 1937, Ray-Ban® has been at the leading edge of developing high quality sunglasses to protect pilots from the sun's harsh rays. Since then, Ray-Ban has been the eyewear of choice for visionaries and cultural creators everywhere to express their fearless and most authentic selves.",
+                "d2": "Timeless style, authenticity and freedom of expression are the core values of Ray-Ban, a leader in sun and prescription eyewear for generations. Since the introduction of the iconic Aviator model created for the aviators of the United States Army, Ray-Ban has been at the forefront of cultural change, becoming a symbol of self-expression, worn by visionaries all around the world.",
+                "d3": "As a reference, you may want to check the size of your current eyewear, by looking at the inner side of the temple. Should you see a fourth number at the end, this refers to lens height (i.e. 50/21/145/46.9)."
+            }
         }
     },
     {
@@ -323,7 +370,11 @@
             "Year": 2021,
             "Color": "Shiny Glitter Silver",
             "Price": 400,
-            "Detail": "Beautiful, sharp, flexible alloy frame, adjustable,strong hinges, soft and light folding. Lightweight polycarbonate lenses with uv400 protection, UV rays, and lenses that are cool and comfortable to wear.  Full accessories included. Design youthful, beautiful and sharp , delicate, luxurious and classy.",
+            "Detail": {
+                "d1": "Influential, innovative and progressive. Gucci is reinventing a wholly modern approach to fashion. Under the new vision of creative director Alessandro Michele, the House has redefined luxury for the 21st century. With distinctive and unconventional creativity, Gucci Eyewear expresses a distinguished contemporary spirit, fully representing the House’s Italian eclectic aesthetic.",
+                "d2": "Frame size is usually defined by lens width, bridge width and temple length. These values are always displayed in that order, in millimeters.",
+                "d3": "As a reference, you may want to check the size of your current eyewear, by looking at the inner side of the temple. Should you see a fourth number at the end, this refers to lens height (i.e. 56/18/140/50)."
+            },
             "Sell": "1"
         }
     },
@@ -349,7 +400,11 @@
             "Year": 2021,
             "Color": "Shiny Black",
             "Price": 300,
-            "Detail": "Influential, innovative and progressive. Gucci is reinventing a wholly modern approach to fashion. Under the new vision of creative director Alessandro Michele, the House has redefined luxury for the 21st century. With distinctive and unconventional creativity, Gucci Eyewear expresses a distinguished contemporary spirit, fully representing the House’s Italian eclectic aesthetic.",
+            "Detail": {
+                "d1": "Influential, innovative and progressive. Gucci is reinventing a wholly modern approach to fashion. Under the new vision of creative director Alessandro Michele, the House has redefined luxury for the 21st century. With distinctive and unconventional creativity, Gucci Eyewear expresses a distinguished contemporary spirit, fully representing the House’s Italian eclectic aesthetic.",
+                "d2": "Frame size is usually defined by lens width, bridge width and temple length. These values are always displayed in that order, in millimeters.",
+                "d3": "As a reference, you may want to check the size of your current eyewear, by looking at the inner side of the temple. Should you see a fourth number at the end, this refers to lens height (i.e. 56/18/140/50)."
+            },
             "Sell": "1"
         }
     },
@@ -375,7 +430,11 @@
             "Year": 2019,
             "Color": "Black",
             "Price": 250,
-            "Detail": "Influential, innovative and progressive. Gucci is reinventing a wholly modern approach to fashion. Under the new vision of creative director Alessandro Michele, the House has redefined luxury for the 21st century. With distinctive and unconventional creativity, Gucci Eyewear expresses a distinguished contemporary spirit, fully representing the House’s Italian eclectic aesthetic."
+            "Detail": {
+                "d1": "Influential, innovative and progressive. Gucci is reinventing a wholly modern approach to fashion. Under the new vision of creative director Alessandro Michele, the House has redefined luxury for the 21st century. With distinctive and unconventional creativity, Gucci Eyewear expresses a distinguished contemporary spirit, fully representing the House’s Italian eclectic aesthetic.",
+                "d2": "Frame size is usually defined by lens width, bridge width and temple length. These values are always displayed in that order, in millimeters.",
+                "d3": "As a reference, you may want to check the size of your current eyewear, by looking at the inner side of the temple. Should you see a fourth number at the end, this refers to lens height (i.e. 56/18/140/50)."
+            }
         }
     },
     {
@@ -400,10 +459,13 @@
             "Year": 2020,
             "Color": "Silver",
             "Price": 450,
-            "Detail": "Influential, innovative and progressive. Gucci is reinventing a wholly modern approach to fashion. Under the new vision of creative director Alessandro Michele, the House has redefined luxury for the 21st century. With distinctive and unconventional creativity, Gucci Eyewear expresses a distinguished contemporary spirit, fully representing the House’s Italian eclectic aesthetic."
+            "Detail": {
+                "d1": "Influential, innovative and progressive. Gucci is reinventing a wholly modern approach to fashion. Under the new vision of creative director Alessandro Michele, the House has redefined luxury for the 21st century. With distinctive and unconventional creativity, Gucci Eyewear expresses a distinguished contemporary spirit, fully representing the House’s Italian eclectic aesthetic.",
+                "d2": "Frame size is usually defined by lens width, bridge width and temple length. These values are always displayed in that order, in millimeters.",
+                "d3": "As a reference, you may want to check the size of your current eyewear, by looking at the inner side of the temple. Should you see a fourth number at the end, this refers to lens height (i.e. 56/18/140/50)."
+            }
         }
     },
-    
     {
         "Img": {
             "ID": "222",
@@ -426,7 +488,11 @@
             "Year": 2021,
             "Color": "Shiny Black",
             "Price": 350,
-            "Detail": "Influential, innovative and progressive. Gucci is reinventing a wholly modern approach to fashion. Under the new vision of creative director Alessandro Michele, the House has redefined luxury for the 21st century. With distinctive and unconventional creativity, Gucci Eyewear expresses a distinguished contemporary spirit, fully representing the House’s Italian eclectic aesthetic."
+            "Detail": {
+                "d1": "Influential, innovative and progressive. Gucci is reinventing a wholly modern approach to fashion. Under the new vision of creative director Alessandro Michele, the House has redefined luxury for the 21st century. With distinctive and unconventional creativity, Gucci Eyewear expresses a distinguished contemporary spirit, fully representing the House’s Italian eclectic aesthetic.",
+                "d2": "Frame size is usually defined by lens width, bridge width and temple length. These values are always displayed in that order, in millimeters.",
+                "d3": "As a reference, you may want to check the size of your current eyewear, by looking at the inner side of the temple. Should you see a fourth number at the end, this refers to lens height (i.e. 56/18/140/50)."
+            }
         }
     },
     {
@@ -451,7 +517,11 @@
             "Year": 2017,
             "Color": "Red",
             "Price": 560,
-            "Detail": "Influential, innovative and progressive. Gucci is reinventing a wholly modern approach to fashion. Under the new vision of creative director Alessandro Michele, the House has redefined luxury for the 21st century. With distinctive and unconventional creativity, Gucci Eyewear expresses a distinguished contemporary spirit, fully representing the House’s Italian eclectic aesthetic.",
+            "Detail": {
+                "d1": "Influential, innovative and progressive. Gucci is reinventing a wholly modern approach to fashion. Under the new vision of creative director Alessandro Michele, the House has redefined luxury for the 21st century. With distinctive and unconventional creativity, Gucci Eyewear expresses a distinguished contemporary spirit, fully representing the House’s Italian eclectic aesthetic.",
+                "d2": "Frame size is usually defined by lens width, bridge width and temple length. These values are always displayed in that order, in millimeters.",
+                "d3": "As a reference, you may want to check the size of your current eyewear, by looking at the inner side of the temple. Should you see a fourth number at the end, this refers to lens height (i.e. 56/18/140/50)."
+            },
             "Sell": "1"
         }
     },
@@ -477,7 +547,11 @@
             "Year": 2020,
             "Color": "Transparent Pink",
             "Price": 550,
-            "Detail": "Influential, innovative and progressive. Gucci is reinventing a wholly modern approach to fashion. Under the new vision of creative director Alessandro Michele, the House has redefined luxury for the 21st century. With distinctive and unconventional creativity, Gucci Eyewear expresses a distinguished contemporary spirit, fully representing the House’s Italian eclectic aesthetic."
+            "Detail": {
+                "d1": "Influential, innovative and progressive. Gucci is reinventing a wholly modern approach to fashion. Under the new vision of creative director Alessandro Michele, the House has redefined luxury for the 21st century. With distinctive and unconventional creativity, Gucci Eyewear expresses a distinguished contemporary spirit, fully representing the House’s Italian eclectic aesthetic.",
+                "d2": "Frame size is usually defined by lens width, bridge width and temple length. These values are always displayed in that order, in millimeters.",
+                "d3": "As a reference, you may want to check the size of your current eyewear, by looking at the inner side of the temple. Should you see a fourth number at the end, this refers to lens height (i.e. 56/18/140/50)."
+            }
         }
     },
     {
@@ -502,7 +576,11 @@
             "Year": 2018,
             "Color": "Black",
             "Price": 333,
-            "Detail": "Beautiful, sharp, flexible alloy frame, adjustable,strong hinges, soft and light folding. Lightweight polycarbonate lenses with uv400 protection, UV rays, and lenses that are cool and comfortable to wear.  Full accessories included. Design youthful, beautiful and sharp , delicate, luxurious and classy.",
+            "Detail": {
+                "d1": "Beautiful, sharp, flexible alloy frame, adjustable,strong hinges, soft and light folding. Lightweight polycarbonate lenses with uv400 protection, UV rays, and lenses that are cool and comfortable to wear.  Full accessories included. Design youthful, beautiful and sharp , delicate, luxurious and classy.",
+                "d2": "Boss is the personification of high-end fashion. With its innovative designs and classic appearance, Boss Prescription Glasses are made for showing as well as wearing.Made from light, resistant materials such as acetate and brushed metals, your Boss accompaniment is sure to last the test of time, whatever the occasion or activity faced.",
+                "d3": "As a reference, you may want to check the size of your current eyewear, by looking at the inner side of the temple. Should you see a fourth number at the end, this refers to lens height (i.e. 56/18/140/50)."
+            },
             "Sell": "1"
         }
     },
@@ -529,7 +607,11 @@
             "Year": 2021,
             "Color": "Shiny Havana",
             "Price": 413,
-            "Detail": "Beautiful, sharp, flexible alloy frame, adjustable,strong hinges, soft and light folding. Lightweight polycarbonate lenses with uv400 protection, UV rays, and lenses that are cool and comfortable to wear.  Full accessories included. Design youthful, beautiful and sharp , delicate, luxurious and classy."
+            "Detail": {
+                "d1": "Beautiful, sharp, flexible alloy frame, adjustable,strong hinges, soft and light folding. Lightweight polycarbonate lenses with uv400 protection, UV rays, and lenses that are cool and comfortable to wear.  Full accessories included. Design youthful, beautiful and sharp , delicate, luxurious and classy.",
+                "d2": "Boss is the personification of high-end fashion. With its innovative designs and classic appearance, Boss Prescription Glasses are made for showing as well as wearing.Made from light, resistant materials such as acetate and brushed metals, your Boss accompaniment is sure to last the test of time, whatever the occasion or activity faced.",
+                "d3": "As a reference, you may want to check the size of your current eyewear, by looking at the inner side of the temple. Should you see a fourth number at the end, this refers to lens height (i.e. 56/18/140/50)."
+            }
         }
     },
     {
@@ -554,7 +636,11 @@
             "Year": 2020,
             "Color": "Havana",
             "Price": 230,
-            "Detail": "Beautiful, sharp, flexible alloy frame, adjustable,strong hinges, soft and light folding. Lightweight polycarbonate lenses with uv400 protection, UV rays, and lenses that are cool and comfortable to wear.  Full accessories included. Design youthful, beautiful and sharp , delicate, luxurious and classy.",
+            "Detail": {
+                "d1": "Beautiful, sharp, flexible alloy frame, adjustable,strong hinges, soft and light folding. Lightweight polycarbonate lenses with uv400 protection, UV rays, and lenses that are cool and comfortable to wear.  Full accessories included. Design youthful, beautiful and sharp , delicate, luxurious and classy.",
+                "d2": "Boss is the personification of high-end fashion. With its innovative designs and classic appearance, Boss Prescription Glasses are made for showing as well as wearing.Made from light, resistant materials such as acetate and brushed metals, your Boss accompaniment is sure to last the test of time, whatever the occasion or activity faced.",
+                "d3": "As a reference, you may want to check the size of your current eyewear, by looking at the inner side of the temple. Should you see a fourth number at the end, this refers to lens height (i.e. 56/18/140/50)."
+            },
             "Sell": "1"
         }
     },
@@ -580,10 +666,13 @@
             "Year": 2020,
             "Color": "Havana",
             "Price": 230,
-            "Detail": "Beautiful, sharp, flexible alloy frame, adjustable,strong hinges, soft and light folding. Lightweight polycarbonate lenses with uv400 protection, UV rays, and lenses that are cool and comfortable to wear.  Full accessories included. Design youthful, beautiful and sharp , delicate, luxurious and classy."
+            "Detail": {
+                "d1": "Beautiful, sharp, flexible alloy frame, adjustable,strong hinges, soft and light folding. Lightweight polycarbonate lenses with uv400 protection, UV rays, and lenses that are cool and comfortable to wear.  Full accessories included. Design youthful, beautiful and sharp , delicate, luxurious and classy.",
+                "d2": "Boss is the personification of high-end fashion. With its innovative designs and classic appearance, Boss Prescription Glasses are made for showing as well as wearing.Made from light, resistant materials such as acetate and brushed metals, your Boss accompaniment is sure to last the test of time, whatever the occasion or activity faced.",
+                "d3": "As a reference, you may want to check the size of your current eyewear, by looking at the inner side of the temple. Should you see a fourth number at the end, this refers to lens height (i.e. 56/18/140/50)."
+            }
         }
     },
-    
     {
         "Img": {
             "ID": "752",
@@ -606,7 +695,11 @@
             "Year": 2019,
             "Color": "Black",
             "Price": 530,
-            "Detail": "Beautiful, sharp, flexible alloy frame, adjustable,strong hinges, soft and light folding. Lightweight polycarbonate lenses with uv400 protection, UV rays, and lenses that are cool and comfortable to wear.  Full accessories included. Design youthful, beautiful and sharp , delicate, luxurious and classy."
+            "Detail": {
+                "d1": "Beautiful, sharp, flexible alloy frame, adjustable,strong hinges, soft and light folding. Lightweight polycarbonate lenses with uv400 protection, UV rays, and lenses that are cool and comfortable to wear.  Full accessories included. Design youthful, beautiful and sharp , delicate, luxurious and classy.",
+                "d2": "Boss is the personification of high-end fashion. With its innovative designs and classic appearance, Boss Prescription Glasses are made for showing as well as wearing.Made from light, resistant materials such as acetate and brushed metals, your Boss accompaniment is sure to last the test of time, whatever the occasion or activity faced.",
+                "d3": "As a reference, you may want to check the size of your current eyewear, by looking at the inner side of the temple. Should you see a fourth number at the end, this refers to lens height (i.e. 56/18/140/50)."
+            }
         }
     },
     {
@@ -631,7 +724,11 @@
             "Year": 2021,
             "Color": "Transparent Green",
             "Price": 367,
-            "Detail": "Beautiful, sharp, flexible alloy frame, adjustable,strong hinges, soft and light folding. Lightweight polycarbonate lenses with uv400 protection, UV rays, and lenses that are cool and comfortable to wear.  Full accessories included. Design youthful, beautiful and sharp , delicate, luxurious and classy."
+            "Detail": {
+                "d1": "Beautiful, sharp, flexible alloy frame, adjustable,strong hinges, soft and light folding. Lightweight polycarbonate lenses with uv400 protection, UV rays, and lenses that are cool and comfortable to wear.  Full accessories included. Design youthful, beautiful and sharp , delicate, luxurious and classy.",
+                "d2": "Boss is the personification of high-end fashion. With its innovative designs and classic appearance, Boss Prescription Glasses are made for showing as well as wearing.Made from light, resistant materials such as acetate and brushed metals, your Boss accompaniment is sure to last the test of time, whatever the occasion or activity faced.",
+                "d3": "As a reference, you may want to check the size of your current eyewear, by looking at the inner side of the temple. Should you see a fourth number at the end, this refers to lens height (i.e. 56/18/140/50)."
+            }
         }
     },
     {
@@ -656,7 +753,11 @@
             "Year": 2016,
             "Color": "Black",
             "Price": 432,
-            "Detail": "Beautiful, sharp, flexible alloy frame, adjustable,strong hinges, soft and light folding. Lightweight polycarbonate lenses with uv400 protection, UV rays, and lenses that are cool and comfortable to wear.  Full accessories included. Design youthful, beautiful and sharp , delicate, luxurious and classy."
+            "Detail": {
+                "d1": "Beautiful, sharp, flexible alloy frame, adjustable,strong hinges, soft and light folding. Lightweight polycarbonate lenses with uv400 protection, UV rays, and lenses that are cool and comfortable to wear.  Full accessories included. Design youthful, beautiful and sharp , delicate, luxurious and classy.",
+                "d2": "Boss is the personification of high-end fashion. With its innovative designs and classic appearance, Boss Prescription Glasses are made for showing as well as wearing.Made from light, resistant materials such as acetate and brushed metals, your Boss accompaniment is sure to last the test of time, whatever the occasion or activity faced.",
+                "d3": "As a reference, you may want to check the size of your current eyewear, by looking at the inner side of the temple. Should you see a fourth number at the end, this refers to lens height (i.e. 56/18/140/50)."
+            }
         }
     },
     {
@@ -681,7 +782,11 @@
             "Year": 2016,
             "Color": "Transparent Grey",
             "Price": 234,
-            "Detail": "As pioneers of innovation and high performance optics, Oakley® ignites and empowers the quest for personal progression and individual expression. Rooted in more than 45 years of design and innovation history with products world-class and everyday athletes around the globe depend on, Oakley eyewear is built to perform for sport and life."
+            "Detail": {
+                "d1": "As pioneers of innovation and high performance optics, Oakley® ignites and empowers the quest for personal progression and individual expression. Rooted in more than 45 years of design and innovation history with products world-class and everyday athletes around the globe depend on, Oakley eyewear is built to perform for sport and life.",
+                "d2": "The Oakley pursuit of performance innovation is unrivaled. Its eyewear pushes the limit to create stylish gear that performs with purpose.",
+                "d3": "Frame size is usually defined by lens width, bridge width and temple length. These values are always displayed in that order, in millimeters."
+            }
         }
     },
     {
@@ -706,11 +811,14 @@
             "Year": 2021,
             "Color": "Gold",
             "Price": 120,
-            "Detail": "Born out of necessity in 1937, Ray-Ban® has been at the leading edge of developing high quality sunglasses to protect pilots from the sun’s harsh rays. Since then, Ray-Ban has been the eyewear of choice for visionaries and cultural creators everywhere to express their fearless and most authentic selves. ",
+            "Detail": {
+                "d1": "Born out of necessity in 1937, Ray-Ban® has been at the leading edge of developing high quality sunglasses to protect pilots from the sun's harsh rays. Since then, Ray-Ban has been the eyewear of choice for visionaries and cultural creators everywhere to express their fearless and most authentic selves.",
+                "d2": "Timeless style, authenticity and freedom of expression are the core values of Ray-Ban, a leader in sun and prescription eyewear for generations. Since the introduction of the iconic Aviator model created for the aviators of the United States Army, Ray-Ban has been at the forefront of cultural change, becoming a symbol of self-expression, worn by visionaries all around the world.",
+                "d3": "As a reference, you may want to check the size of your current eyewear, by looking at the inner side of the temple. Should you see a fourth number at the end, this refers to lens height (i.e. 50/21/145/46.9)."
+            },
             "Sell": "1"
         }
     },
-    
     {
         "Img": {
             "ID": "833",
@@ -732,7 +840,11 @@
             "Year": 2016,
             "Color": "Satin Grey Smoke",
             "Price": 412,
-            "Detail": "As pioneers of innovation and high performance optics, Oakley® ignites and empowers the quest for personal progression and individual expression. Rooted in more than 45 years of design and innovation history with products world-class and everyday athletes around the globe depend on, Oakley eyewear is built to perform for sport and life."
+            "Detail": {
+                "d1": "As pioneers of innovation and high performance optics, Oakley® ignites and empowers the quest for personal progression and individual expression. Rooted in more than 45 years of design and innovation history with products world-class and everyday athletes around the globe depend on, Oakley eyewear is built to perform for sport and life.",
+                "d2": "The Oakley pursuit of performance innovation is unrivaled. Its eyewear pushes the limit to create stylish gear that performs with purpose.",
+                "d3": "Frame size is usually defined by lens width, bridge width and temple length. These values are always displayed in that order, in millimeters."
+            }
         }
     },
     {
@@ -756,7 +868,11 @@
             "Year": 2019,
             "Color": "Grey Smoke",
             "Price": 120,
-            "Detail": "As pioneers of innovation and high performance optics, Oakley® ignites and empowers the quest for personal progression and individual expression. Rooted in more than 45 years of design and innovation history with products world-class and everyday athletes around the globe depend on, Oakley eyewear is built to perform for sport and life."
+            "Detail": {
+                "d1": "As pioneers of innovation and high performance optics, Oakley® ignites and empowers the quest for personal progression and individual expression. Rooted in more than 45 years of design and innovation history with products world-class and everyday athletes around the globe depend on, Oakley eyewear is built to perform for sport and life.",
+                "d2": "The Oakley pursuit of performance innovation is unrivaled. Its eyewear pushes the limit to create stylish gear that performs with purpose.",
+                "d3": "Frame size is usually defined by lens width, bridge width and temple length. These values are always displayed in that order, in millimeters."
+            }
         }
     },
     {
@@ -780,7 +896,11 @@
             "Year": 2018,
             "Color": "Polished Black",
             "Price": 220,
-            "Detail": "As pioneers of innovation and high performance optics, Oakley® ignites and empowers the quest for personal progression and individual expression. Rooted in more than 45 years of design and innovation history with products world-class and everyday athletes around the globe depend on, Oakley eyewear is built to perform for sport and life."
+            "Detail": {
+                "d1": "As pioneers of innovation and high performance optics, Oakley® ignites and empowers the quest for personal progression and individual expression. Rooted in more than 45 years of design and innovation history with products world-class and everyday athletes around the globe depend on, Oakley eyewear is built to perform for sport and life.",
+                "d2": "The Oakley pursuit of performance innovation is unrivaled. Its eyewear pushes the limit to create stylish gear that performs with purpose.",
+                "d3": "Frame size is usually defined by lens width, bridge width and temple length. These values are always displayed in that order, in millimeters."
+            }
         }
     },
     {
@@ -804,11 +924,13 @@
             "Year": 2019,
             "Color": " Polished Clear",
             "Price": 240,
-            "Detail": "As pioneers of innovation and high performance optics, Oakley® ignites and empowers the quest for personal progression and individual expression. Rooted in more than 45 years of design and innovation history with products world-class and everyday athletes around the globe depend on, Oakley eyewear is built to perform for sport and life."
+            "Detail": {
+                "d1": "As pioneers of innovation and high performance optics, Oakley® ignites and empowers the quest for personal progression and individual expression. Rooted in more than 45 years of design and innovation history with products world-class and everyday athletes around the globe depend on, Oakley eyewear is built to perform for sport and life.",
+                "d2": "The Oakley pursuit of performance innovation is unrivaled. Its eyewear pushes the limit to create stylish gear that performs with purpose.",
+                "d3": "Frame size is usually defined by lens width, bridge width and temple length. These values are always displayed in that order, in millimeters."
+            }
         }
     },
-    
-    
     {
         "Img": {
             "ID": "2001",
@@ -831,7 +953,11 @@
             "Year": 2017,
             "Color": "Black",
             "Price": 150,
-            "Detail": "Established in 1856 by Thomas Burberry, Burberry is a quintessentially British brand with a heritage of iconic outerwear, innovation and craftsmanship.Frame size is usually defined by lens width, bridge width and temple length. These values are always displayed in that order, in millimeters."
+            "Detail": {
+                "d1": "Established in 1856 by Thomas Burberry, Burberry is a quintessentially British brand with a heritage of iconic outerwear, innovation and craftsmanship.Frame size is usually defined by lens width, bridge width and temple length. These values are always displayed in that order, in millimeters.",
+                "d2": "The world-famous British luxury brand Burberry is one of the oldest and most established fashion houses in the world. Starting with their well-known trench coats in the mid-19th century, they created maybe the most iconic pattern-based trademark in the world. They further developed their portfolio to hold everything from shoes to eyewear. The Burberry sunglasses for women and men still keep some of the old iconic styles, but whilst simultaneously staying true to their roots, they provide a fresh vision on modern fashion. Never forget to look at Burberry’s latest collection when looking for eyeglasses, as they always bring the heat!",
+                "d3": "At Smartbuyglasses we always guarantee the best prices on the market and will deliver whenever and wherever you might be, with the world’s biggest Burberry sunglasses outlet store online. These Burberry are a pair of amazing retro aviators, with metal frames and made of durable and high-grade Polycarbonate."
+            }
         }
     },
     {
@@ -855,7 +981,11 @@
             "Year": 2021,
             "Color": "Black",
             "Price": 430,
-            "Detail": "Established in 1856 by Thomas Burberry, Burberry is a quintessentially British brand with a heritage of iconic outerwear, innovation and craftsmanship.Frame size is usually defined by lens width, bridge width and temple length. These values are always displayed in that order, in millimeters."
+            "Detail": {
+                "d1": "Established in 1856 by Thomas Burberry, Burberry is a quintessentially British brand with a heritage of iconic outerwear, innovation and craftsmanship.Frame size is usually defined by lens width, bridge width and temple length. These values are always displayed in that order, in millimeters.",
+                "d2": "The world-famous British luxury brand Burberry is one of the oldest and most established fashion houses in the world. Starting with their well-known trench coats in the mid-19th century, they created maybe the most iconic pattern-based trademark in the world. They further developed their portfolio to hold everything from shoes to eyewear. The Burberry sunglasses for women and men still keep some of the old iconic styles, but whilst simultaneously staying true to their roots, they provide a fresh vision on modern fashion. Never forget to look at Burberry’s latest collection when looking for eyeglasses, as they always bring the heat!",
+                "d3": "At Smartbuyglasses we always guarantee the best prices on the market and will deliver whenever and wherever you might be, with the world’s biggest Burberry sunglasses outlet store online. These Burberry are a pair of amazing retro aviators, with metal frames and made of durable and high-grade Polycarbonate."
+            }
         }
     },
     {
@@ -879,7 +1009,11 @@
             "Year": 2020,
             "Color": "Shiny Black",
             "Price": 440,
-            "Detail": "Established in 1856 by Thomas Burberry, Burberry is a quintessentially British brand with a heritage of iconic outerwear, innovation and craftsmanship.Frame size is usually defined by lens width, bridge width and temple length. These values are always displayed in that order, in millimeters."
+            "Detail": {
+                "d1": "Established in 1856 by Thomas Burberry, Burberry is a quintessentially British brand with a heritage of iconic outerwear, innovation and craftsmanship.Frame size is usually defined by lens width, bridge width and temple length. These values are always displayed in that order, in millimeters.",
+                "d2": "The world-famous British luxury brand Burberry is one of the oldest and most established fashion houses in the world. Starting with their well-known trench coats in the mid-19th century, they created maybe the most iconic pattern-based trademark in the world. They further developed their portfolio to hold everything from shoes to eyewear. The Burberry sunglasses for women and men still keep some of the old iconic styles, but whilst simultaneously staying true to their roots, they provide a fresh vision on modern fashion. Never forget to look at Burberry’s latest collection when looking for eyeglasses, as they always bring the heat!",
+                "d3": "At Smartbuyglasses we always guarantee the best prices on the market and will deliver whenever and wherever you might be, with the world’s biggest Burberry sunglasses outlet store online. These Burberry are a pair of amazing retro aviators, with metal frames and made of durable and high-grade Polycarbonate."
+            }
         }
     },
     {
@@ -903,7 +1037,11 @@
             "Year": 2021,
             "Color": "Black",
             "Price": 460,
-            "Detail": "Established in 1856 by Thomas Burberry, Burberry is a quintessentially British brand with a heritage of iconic outerwear, innovation and craftsmanship.Frame size is usually defined by lens width, bridge width and temple length. These values are always displayed in that order, in millimeters."
+            "Detail": {
+                "d1": "Established in 1856 by Thomas Burberry, Burberry is a quintessentially British brand with a heritage of iconic outerwear, innovation and craftsmanship.Frame size is usually defined by lens width, bridge width and temple length. These values are always displayed in that order, in millimeters.",
+                "d2": "The world-famous British luxury brand Burberry is one of the oldest and most established fashion houses in the world. Starting with their well-known trench coats in the mid-19th century, they created maybe the most iconic pattern-based trademark in the world. They further developed their portfolio to hold everything from shoes to eyewear. The Burberry sunglasses for women and men still keep some of the old iconic styles, but whilst simultaneously staying true to their roots, they provide a fresh vision on modern fashion. Never forget to look at Burberry’s latest collection when looking for eyeglasses, as they always bring the heat!",
+                "d3": "At Smartbuyglasses we always guarantee the best prices on the market and will deliver whenever and wherever you might be, with the world’s biggest Burberry sunglasses outlet store online. These Burberry are a pair of amazing retro aviators, with metal frames and made of durable and high-grade Polycarbonate."
+            }
         }
     },
     {
@@ -927,7 +1065,11 @@
             "Year": 2021,
             "Color": "Havana",
             "Price": 330,
-            "Detail": "Established in 1856 by Thomas Burberry, Burberry is a quintessentially British brand with a heritage of iconic outerwear, innovation and craftsmanship.Frame size is usually defined by lens width, bridge width and temple length. These values are always displayed in that order, in millimeters."
+            "Detail": {
+                "d1": "Established in 1856 by Thomas Burberry, Burberry is a quintessentially British brand with a heritage of iconic outerwear, innovation and craftsmanship.Frame size is usually defined by lens width, bridge width and temple length. These values are always displayed in that order, in millimeters.",
+                "d2": "The world-famous British luxury brand Burberry is one of the oldest and most established fashion houses in the world. Starting with their well-known trench coats in the mid-19th century, they created maybe the most iconic pattern-based trademark in the world. They further developed their portfolio to hold everything from shoes to eyewear. The Burberry sunglasses for women and men still keep some of the old iconic styles, but whilst simultaneously staying true to their roots, they provide a fresh vision on modern fashion. Never forget to look at Burberry’s latest collection when looking for eyeglasses, as they always bring the heat!",
+                "d3": "At Smartbuyglasses we always guarantee the best prices on the market and will deliver whenever and wherever you might be, with the world’s biggest Burberry sunglasses outlet store online. These Burberry are a pair of amazing retro aviators, with metal frames and made of durable and high-grade Polycarbonate."
+            }
         }
     },
     {
@@ -951,7 +1093,11 @@
             "Year": 2021,
             "Color": "Havana",
             "Price": 230,
-            "Detail": "Established in 1856 by Thomas Burberry, Burberry is a quintessentially British brand with a heritage of iconic outerwear, innovation and craftsmanship.Frame size is usually defined by lens width, bridge width and temple length. These values are always displayed in that order, in millimeters."
+            "Detail": {
+                "d1": "Established in 1856 by Thomas Burberry, Burberry is a quintessentially British brand with a heritage of iconic outerwear, innovation and craftsmanship.Frame size is usually defined by lens width, bridge width and temple length. These values are always displayed in that order, in millimeters.",
+                "d2": "The world-famous British luxury brand Burberry is one of the oldest and most established fashion houses in the world. Starting with their well-known trench coats in the mid-19th century, they created maybe the most iconic pattern-based trademark in the world. They further developed their portfolio to hold everything from shoes to eyewear. The Burberry sunglasses for women and men still keep some of the old iconic styles, but whilst simultaneously staying true to their roots, they provide a fresh vision on modern fashion. Never forget to look at Burberry’s latest collection when looking for eyeglasses, as they always bring the heat!",
+                "d3": "At Smartbuyglasses we always guarantee the best prices on the market and will deliver whenever and wherever you might be, with the world’s biggest Burberry sunglasses outlet store online. These Burberry are a pair of amazing retro aviators, with metal frames and made of durable and high-grade Polycarbonate."
+            }
         }
     },
     {
@@ -975,7 +1121,11 @@
             "Year": 2022,
             "Color": "Gold",
             "Price": 430,
-            "Detail": "Established in 1856 by Thomas Burberry, Burberry is a quintessentially British brand with a heritage of iconic outerwear, innovation and craftsmanship.Frame size is usually defined by lens width, bridge width and temple length. These values are always displayed in that order, in millimeters."
+            "Detail": {
+                "d1": "Established in 1856 by Thomas Burberry, Burberry is a quintessentially British brand with a heritage of iconic outerwear, innovation and craftsmanship.Frame size is usually defined by lens width, bridge width and temple length. These values are always displayed in that order, in millimeters.",
+                "d2": "The world-famous British luxury brand Burberry is one of the oldest and most established fashion houses in the world. Starting with their well-known trench coats in the mid-19th century, they created maybe the most iconic pattern-based trademark in the world. They further developed their portfolio to hold everything from shoes to eyewear. The Burberry sunglasses for women and men still keep some of the old iconic styles, but whilst simultaneously staying true to their roots, they provide a fresh vision on modern fashion. Never forget to look at Burberry’s latest collection when looking for eyeglasses, as they always bring the heat!",
+                "d3": "At Smartbuyglasses we always guarantee the best prices on the market and will deliver whenever and wherever you might be, with the world’s biggest Burberry sunglasses outlet store online. These Burberry are a pair of amazing retro aviators, with metal frames and made of durable and high-grade Polycarbonate."
+            }
         }
     },
     {
@@ -999,7 +1149,11 @@
             "Year": 2019,
             "Color": "Gold/Matte Black",
             "Price": 210,
-            "Detail": "Established in 1856 by Thomas Burberry, Burberry is a quintessentially British brand with a heritage of iconic outerwear, innovation and craftsmanship.Frame size is usually defined by lens width, bridge width and temple length. These values are always displayed in that order, in millimeters."
+            "Detail": {
+                "d1": "Established in 1856 by Thomas Burberry, Burberry is a quintessentially British brand with a heritage of iconic outerwear, innovation and craftsmanship.Frame size is usually defined by lens width, bridge width and temple length. These values are always displayed in that order, in millimeters.",
+                "d2": "The world-famous British luxury brand Burberry is one of the oldest and most established fashion houses in the world. Starting with their well-known trench coats in the mid-19th century, they created maybe the most iconic pattern-based trademark in the world. They further developed their portfolio to hold everything from shoes to eyewear. The Burberry sunglasses for women and men still keep some of the old iconic styles, but whilst simultaneously staying true to their roots, they provide a fresh vision on modern fashion. Never forget to look at Burberry’s latest collection when looking for eyeglasses, as they always bring the heat!",
+                "d3": "At Smartbuyglasses we always guarantee the best prices on the market and will deliver whenever and wherever you might be, with the world’s biggest Burberry sunglasses outlet store online. These Burberry are a pair of amazing retro aviators, with metal frames and made of durable and high-grade Polycarbonate."
+            }
         }
     },
     {
@@ -1022,7 +1176,11 @@
             "Year": 2022,
             "Color": "White",
             "Price": 100,
-            "Detail": "1-DAY ACUVUE Moist Contact Lenses are a convenient way to wear your contact lenses - just wear them one day and throw them away! A breakthrough in daily disposable contact lenses, 77% of wearers report that these lenses felt fresh and new all day long. Enjoy the feeling of fresh, clean lenses every day with 1-DAY ACUVUE Moist from Johnson and Johnson. "
+            "Detail": {
+                "d1": "A big upgrade to its predecessor, 1-Day Acuvue Moist® with its LACREON® Technology provides extreme comfort throughout the day. The reason is because it contains a moisture-rich wetting agent that helps keep the lenses moist and comfortable from day to night. ",
+                "d2": "Like the original 1-Day Acuvue, 1-Day Acuvue Moist also offers supreme sun protection against UV-A and UV-B rays.These daily disposable 1-Day Acuvue Moist® lenses can correct both nearsighted and farsighted vision conditions. Just pop in a fresh, new pair every morning and you’ll be ready to take on the day!",
+                "d3": "Daily Disposable Wear a fresh new pair of contact lenses everyday with daily disposable contact lenses. Put on a brand new pair of 1-Day Acuvue Moist 30 Pack contact lenses in the morning and dispose them at night."
+            }
         }
     },
     {
@@ -1045,7 +1203,11 @@
             "Year": 2021,
             "Color": "White",
             "Price": 200,
-            "Detail": "1-DAY ACUVUE Moist Contact Lenses are a convenient way to wear your contact lenses - just wear them one day and throw them away! A breakthrough in daily disposable contact lenses, 77% of wearers report that these lenses felt fresh and new all day long. Enjoy the feeling of fresh, clean lenses every day with 1-DAY ACUVUE Moist from Johnson and Johnson. "
+            "Detail": {
+                "d1": "1-DAY ACUVUE Moist Contact Lenses are a convenient way to wear your contact lenses - just wear them one day and throw them away! A breakthrough in daily disposable contact lenses, 77% of wearers report that these lenses felt fresh and new all day long. Enjoy the feeling of fresh, clean lenses every day with 1-DAY ACUVUE Moist from Johnson and Johnson. ",
+                "d2": "Like the original 1-Day Acuvue, 1-Day Acuvue Moist also offers supreme sun protection against UV-A and UV-B rays.These daily disposable 1-Day Acuvue Moist® lenses can correct both nearsighted and farsighted vision conditions. Just pop in a fresh, new pair every morning and you’ll be ready to take on the day!",
+                "d3": "Daily Disposable Wear a fresh new pair of contact lenses everyday with daily disposable contact lenses. Put on a brand new pair of 1-Day Acuvue Moist 30 Pack contact lenses in the morning and dispose them at night."
+            }
         }
     },
     {
@@ -1068,7 +1230,11 @@
             "Year": 2018,
             "Color": "White",
             "Price": 86,
-            "Detail": "1-DAY Air Optix Moist Contact Lenses are a convenient way to wear your contact lenses - just wear them one day and throw them away! A breakthrough in daily disposable contact lenses, 77% of wearers report that these lenses felt fresh and new all day long. Enjoy the feeling of fresh, clean lenses every day with 1-DAY ACUVUE Moist from Johnson and Johnson. "
+            "Detail": {
+                "d1": "1-DAY ACUVUE Moist Contact Lenses are a convenient way to wear your contact lenses - just wear them one day and throw them away! A breakthrough in daily disposable contact lenses, 77% of wearers report that these lenses felt fresh and new all day long. Enjoy the feeling of fresh, clean lenses every day with 1-DAY ACUVUE Moist from Johnson and Johnson. ",
+                "d2": "Like the original 1-Day Acuvue, 1-Day Acuvue Moist also offers supreme sun protection against UV-A and UV-B rays.These daily disposable 1-Day Acuvue Moist® lenses can correct both nearsighted and farsighted vision conditions. Just pop in a fresh, new pair every morning and you’ll be ready to take on the day!",
+                "d3": "Daily Disposable Wear a fresh new pair of contact lenses everyday with daily disposable contact lenses. Put on a brand new pair of 1-Day Acuvue Moist 30 Pack contact lenses in the morning and dispose them at night."
+            }
         }
     },
     {
@@ -1091,7 +1257,11 @@
             "Year": 2022,
             "Color": "White",
             "Price": 60,
-            "Detail": "1-DAY ACUVUE Moist Contact Lenses are a convenient way to wear your contact lenses - just wear them one day and throw them away! A breakthrough in daily disposable contact lenses, 77% of wearers report that these lenses felt fresh and new all day long. Enjoy the feeling of fresh, clean lenses every day with 1-DAY ACUVUE Moist from Johnson and Johnson. "
+            "Detail": {
+                "d1": "1-DAY ACUVUE Moist Contact Lenses are a convenient way to wear your contact lenses - just wear them one day and throw them away! A breakthrough in daily disposable contact lenses, 77% of wearers report that these lenses felt fresh and new all day long. Enjoy the feeling of fresh, clean lenses every day with 1-DAY ACUVUE Moist from Johnson and Johnson. ",
+                "d2": "Like the original 1-Day Acuvue, 1-Day Acuvue Moist also offers supreme sun protection against UV-A and UV-B rays.These daily disposable 1-Day Acuvue Moist® lenses can correct both nearsighted and farsighted vision conditions. Just pop in a fresh, new pair every morning and you’ll be ready to take on the day!",
+                "d3": "Daily Disposable Wear a fresh new pair of contact lenses everyday with daily disposable contact lenses. Put on a brand new pair of 1-Day Acuvue Moist 30 Pack contact lenses in the morning and dispose them at night."
+            }
         }
     },
     {
@@ -1114,7 +1284,11 @@
             "Year": 2018,
             "Color": "White",
             "Price": 300,
-            "Detail": "1-DAY Biofinity Moist Contact Lenses are a convenient way to wear your contact lenses - just wear them one day and throw them away! A breakthrough in daily disposable contact lenses, 77% of wearers report that these lenses felt fresh and new all day long. Enjoy the feeling of fresh, clean lenses every day with 1-DAY ACUVUE Moist from Johnson and Johnson. "
+            "Detail": {
+                "d1": "Biofinity® is a high performance silicone hydrogel soft lens which utilizes an innovative material to provide many benefits for patients. Lenses stay moist and comfortable all day long, helps keep your eyes clear, white and healthy looking. ",
+                "d2": "Monthly Disposable Extended Wear 30 Days With Biofinity 6 Pack monthly disposable lenses, you have the options of wearing them as daily wear lenses, as well as continuous wear for up to 30 days without removing them at night.The lenses are still to be properly cleaned and stored overnight after each daily or a series of continuous wear, and scheduled to be replaced with a new pair after 30 days.Not everyone can wear contact lenses overnight, please consult your optometrist whether Biofinity 6 Pack is suitable for you.",
+                "d3": ""
+            }
         }
     },
     {
@@ -1137,7 +1311,11 @@
             "Year": 2020,
             "Color": "White",
             "Price": 100,
-            "Detail": "1-DAY Soflens Moist Contact Lenses are a convenient way to wear your contact lenses - just wear them one day and throw them away! A breakthrough in daily disposable contact lenses, 77% of wearers report that these lenses felt fresh and new all day long. Enjoy the feeling of fresh, clean lenses every day with 1-DAY ACUVUE Moist from Johnson and Johnson. "
+            "Detail": {
+                "d1": "SofLens ® Toric from Bausch and Lomb is a two-week replacement contact lens designed to meet the special needs of people with astigmatism. The SofLens66 ® Toric contact lens has a unique design that is easy to wear. It provides clear vision, and exceptional comfort consistently day after day. After two weeks, throw your lenses away and start over with a fresh pair. ",
+                "d2": "Daily Disposable Wear a fresh new pair of contact lenses everyday with daily disposable contact lenses. Put on a brand new pair of SofLens 66 Toric 6 Pack contact lenses in the morning and dispose them at night.",
+                "d3": ""
+            }
         }
     },
     {
@@ -1160,7 +1338,11 @@
             "Year": 2016,
             "Color": "White",
             "Price": 300,
-            "Detail": "1-DAY Soflens Moist Contact Lenses are a convenient way to wear your contact lenses - just wear them one day and throw them away! A breakthrough in daily disposable contact lenses, 77% of wearers report that these lenses felt fresh and new all day long. Enjoy the feeling of fresh, clean lenses every day with 1-DAY ACUVUE Moist from Johnson and Johnson. "
+            "Detail": {
+                "d1": "SofLens ® Toric from Bausch and Lomb is a two-week replacement contact lens designed to meet the special needs of people with astigmatism. The SofLens66 ® Toric contact lens has a unique design that is easy to wear. It provides clear vision, and exceptional comfort consistently day after day. After two weeks, throw your lenses away and start over with a fresh pair. ",
+                "d2": "Daily Disposable Wear a fresh new pair of contact lenses everyday with daily disposable contact lenses. Put on a brand new pair of SofLens 66 Toric 6 Pack contact lenses in the morning and dispose them at night.",
+                "d3": ""
+            }
         }
     },
     {
@@ -1183,7 +1365,11 @@
             "Year": 2022,
             "Color": "White",
             "Price": 220,
-            "Detail": "FreshLook ® ONE-DAY contacts from CIBA Vision are daily disposable contact lenses. Change your eye color and wear a fresh pair each day - choose Grey, Blue, Green or Pure Hazel."
+            "Detail": {
+                "d1": "FreshLook ColorBlends ® contact lenses provide a unique 3-in-1 technology, blending three colors into one to create the subtle, natural depth of beautiful eyes. Blue, honey, green, gray, brown, turquoise, amethyst and the latest additions - dramatic new True Sapphire and Pure Hazel. Use Freshlook ColorBlends ® every day or just for tonight.",
+                "d2": "FreshLook ® ONE-DAY contacts from CIBA Vision are daily disposable contact lenses. Change your eye color and wear a fresh pair each day - choose Grey, Blue, Green or Pure Hazel.",
+                "d3": "Monthly Disposable To make the most out of your Freshlook Colorblends 6 Pack monthly lenses, remove them every night and have them properly cleaned and stored for the next day! These lenses last up to 30 days, so don't forget to replace them with a new pair every month."
+            }
         }
     }
 ]
