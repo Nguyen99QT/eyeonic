@@ -31,7 +31,7 @@ information about the various products available with them easily.</p>
   <br/>
   <br/>
   <div>
-    <a target="_bland" href="https://www.youtube.com/watch?v=i9kuqzojEL8">
+    <a target="_bland" href="https://eyeonic.vercel.app/">
       View Demo on online browser >>
     </a>
   </div>
