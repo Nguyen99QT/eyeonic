@@ -112,7 +112,7 @@ function Footer() {
               </a>
             </Col>
             <Col className="service-social">
-              <a href="https://www.youtube.com/" title="YouTube">
+              <a href="https://www.youtube.com/watch?v=i9kuqzojEL8" title="YouTube">
                 <ImYoutube className="service-social-icon-y" />
               </a>
             </Col>
