@@ -3,6 +3,7 @@
 <div>
 <img src="https://github.com/Nguyen99QT/eyeonic/blob/main/src/Readme-image/Home%20page%20model.png"/>
 </div>
+<br/>
 CENTER NAME: ACE-THUDUC-1-FPT
 
 Project title: EYEONIC
@@ -49,7 +50,7 @@ information about the various products available with them easily.</p>
     <img src="https://github.com/Nguyen99QT/eyeonic/blob/main/src/Readme-image/html5-icon.png" width="100px" alt="html5-icon"/>
     <img src="https://github.com/Nguyen99QT/eyeonic/blob/main/src/Readme-image/javascript.png" width="100px" alt="html5-icon"/>
     <img src="https://github.com/Nguyen99QT/eyeonic/blob/main/src/Readme-image/boostrap.png" width="100px" alt="html5-icon"/>
-    <img src="https://github.com/Nguyen99QT/eyeonic/blob/main/src/Readme-image/react.png" width="100px" alt="html5-icon"/>
+    <img src="https://github.com/Nguyen99QT/eyeonic/blob/main/src/Readme-image/React-icon.png" width="100px" alt="html5-icon"/>
     <img src="https://github.com/Nguyen99QT/eyeonic/blob/main/src/Readme-image/scss.png" width="100px" alt="html5-icon"/>
   </div>
 </div>
