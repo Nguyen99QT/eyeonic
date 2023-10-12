@@ -1,4 +1,5 @@
 # eProject T1.2306.M0-eProject-Group_3
+
 <div>
 <img src="https://github.com/Nguyen99QT/eyeonic/blob/main/src/Readme-image/Home%20page%20model.png"/>
 </div>
@@ -16,7 +17,6 @@ Group members Name Student ID
                         Trần Cao Nguyên         Student1470283
                         Dương Phú Khoa          Student1477475
                         Phan Phước Vũ           Student1477228
- 
 
 <div align="center">
 <h3 color="red">EYEONIC</h3>
@@ -81,7 +81,5 @@ invoke the local mail client from where they can send an email. Address of the
 Company should be displayed using GeoLocation API (eg. GoogleMaps).</li>
   </ol>
 </div>
-
-
 
 Thank you for spending your time to look at our work.
