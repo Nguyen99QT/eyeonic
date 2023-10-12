@@ -17,11 +17,10 @@ import { IoMdSearch } from "react-icons/io";
 
 function MainMenu() {
   const [fItem, setFItem] = useState("");
-  
+
   return (
     <Navbar expand="lg" className="bg-body-tertiary box">
       <Container fluid>
-     
         <Navbar.Toggle aria-controls="navbarScroll" className=" " />
         <Navbar.Collapse id="navbarScroll">
           <Nav

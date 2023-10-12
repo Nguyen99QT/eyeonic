@@ -1,7 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Martian+Mono:wght@100;300;400;500&display=swap');
 
 
-.all{
+.all {
   background: var(--body_background);
   color: var(--body_color);
+}
+
+.main-menu {
+  z-index: 1;
 }

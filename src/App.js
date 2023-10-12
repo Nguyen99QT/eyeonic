@@ -18,14 +18,12 @@ import Gallery from "./components/Gallery/Gallery";
 import Search from "./components/Products/Search/Search";
 import ProductNotFound from "./components/Products/Product/index";
 
-
 function App() {
-  
   return (
     <div className="all">
       <Container fluid="md">
-        <Row>
-          <Col>            
+        <Row className="main-menu ">
+          <Col>
             <MainMenu />
           </Col>
         </Row>

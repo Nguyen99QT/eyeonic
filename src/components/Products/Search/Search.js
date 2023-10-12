@@ -4,23 +4,17 @@ import Products from "./../Product.json";
 import { Col, Container, Row, Card, Button, Alert } from "react-bootstrap";
 import { Link, useParams } from "react-router-dom";
 
+// import { useState } from "react";
+// import Pagination from "../../Pagination/Pagination";
+
+
 function Search() {
   const { fItem } = useParams();
   console.log(fItem);
 
-  // const [searchParam] = useState(["Color", "ID"]);
-
-  // let items = Products.filter((item) => {
-  //   return searchParam.some((newItem) => {
-  //     return (
-  //       item[newItem].toString().toLowerCase().indexOf(fItem.toLowerCase()) > -1
-  //     );
-  //   });
-  // });
-  let items = Products.filter((item) => {
-    if (fItem === "") {
-      return item;
-    } else if (
+  let items = Products.filter((item) => 
+  {
+     if (
       item.Img.Color.toLowerCase().includes(fItem.toLocaleLowerCase())
     ) {
       return item;
@@ -36,7 +30,16 @@ function Search() {
     ) {
       return item;
     }
-  });
+  } );
+
+  // const PER_PAGE = 8;
+  // const [currentPage, setCurrentPage] = useState(0);
+  // const handlePageClick = ({ selected: selectedPage }) => {
+  //   setCurrentPage(selectedPage);
+  // };
+  // const offSet = currentPage * PER_PAGE;
+  // const currentPageData = ItemDescription.slice(offSet, offSet + PER_PAGE);
+  // const pageCount = Math.ceil(items.length / PER_PAGE);
 
   return (
     <Container>
@@ -72,6 +75,9 @@ function Search() {
           </Col>
         ))}
       </Row>
+      {/* <Row>
+        <Pagination pageCount={pageCount} handlePageClick={handlePageClick} />
+      </Row> */}
     </Container>
   );
 }
