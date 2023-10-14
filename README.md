@@ -26,20 +26,20 @@ collection of Frames and lenses. The company advertises by distributing the
 pamphlets, advertising on television and so on. Due to rapid development in internet
 field, the company decides to launch a website where people will get all the
 information about the various products available with them easily.</p>
-<a href="https://github.com/Nguyen99QT/eyeonic" target="_bland">Explore the source >> <a/>
+<a href="https://github.com/Nguyen99QT/eyeonic" {:target="_blank" rel="noreferrer noopener"}>Explore the source >> <a/>
   <br/><br/>
-<a href="https://github.com/Nguyen99QT/eyeonic/tree/main/Review" target="_blank">Explore the documents >></a>
+<a href="https://github.com/Nguyen99QT/eyeonic/tree/main/Review" {:target="_blank" rel="noreferrer noopener"}>Explore the documents >></a>
   <br/>
   <br/>
   <div>
-    <a target="_blank" href="https://eyeonic.vercel.app/">
+    <a {:target="_blank" rel="noreferrer noopener"} href="https://eyeonic.vercel.app/">
       View Demo on online browser >>
     </a>
   </div>
 <br/>
   
   <div>
-    <a target="_blank" href="https://www.youtube.com/watch?v=i9kuqzojEL8">
+    <a {:target="_blank" rel="noreferrer noopener"} href="https://www.youtube.com/watch?v=i9kuqzojEL8">
       Video Demo Website work >>
     </a>
   </div>
