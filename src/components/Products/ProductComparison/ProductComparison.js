@@ -2,23 +2,10 @@ import React, { useState } from "react";
 import { Grid, Card, Table, Label } from "semantic-ui-react";
 import ProductCard from "./ProductCard";
 import "./../Product.scss";
+import ScrollCache from "../../ScrollToTop/ScrollToTop";
 
-// const style = {
-//   h1: {
-//     marginTop: "3em"
-//   },
-//   h2: {
-//     margin: "4em 0em 2em"
-//   },
-//   h3: {
-//     marginTop: "2em",
-//     padding: "2em 0em"
-//   },
-//   last: {
-//     marginBottom: "300px"
-//   }
-// };
-
+import Pagination from "../../Pagination/Pagination";
+import { Row } from "react-bootstrap";
 
 const ProductComparison = ({ products }) => {
   
@@ -35,8 +22,18 @@ const ProductComparison = ({ products }) => {
     setSelectedItems((selectedItems) => filteredItems);
   };
 
+  const PER_PAGE = 8;
+  const [currentPage, setCurrentPage] = useState(0);
+  const handlePageClick = ({ selected: selectedPage }) => {
+    setCurrentPage(selectedPage);
+  };
+  const offSet = currentPage * PER_PAGE;
+  const currentPageData = products.slice(offSet, offSet + PER_PAGE);
+  const pageCount = Math.ceil(products.length / PER_PAGE);
+
   return (
     <div className="compare">
+      <ScrollCache/>
       <h1>Compare Products</h1>
       {selectedItems.length > 0 && (
         <Table definition>
@@ -107,7 +104,7 @@ const ProductComparison = ({ products }) => {
       
       <Grid columns={selectedItems.length} stackable padded divided>
         <Card.Group className="G-Card">
-          {products.map((product) => (
+          {currentPageData.map((product) => (
             <ProductCard
               key={product.Img.ID}
               product={product}
@@ -118,6 +115,9 @@ const ProductComparison = ({ products }) => {
           ))}
         </Card.Group>
       </Grid>
+      <Row>
+        <Pagination pageCount={pageCount} handlePageClick={handlePageClick} />
+      </Row>
     </div>
   );
 };

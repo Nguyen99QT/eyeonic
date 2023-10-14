@@ -9,6 +9,7 @@ import { BsFillTelephoneFill } from "react-icons/bs";
 import { BsGeoAltFill } from "react-icons/bs";
 
 import "./Contact.scss";
+import ScrollCache from "../ScrollToTop/ScrollToTop";
 
 function ContactUs() {
   const [validated, setValidated] = useState(false);
@@ -59,6 +60,7 @@ function ContactUs() {
   };
   return (
     <Container className="mt-5 contact">
+      <ScrollCache/>
       <Row>
         <Col xs={12} sm={6} md={6}>
           <p>
@@ -78,12 +80,15 @@ function ContactUs() {
             <a href="tel:123456789">123456789</a>
           </p>
           <p>
-            <span className="contactTitle"><BsGeoAltFill className="icon location"/>Location: </span>590, CMT8, Ward 11,
-            District 3, Ho Chi Minh City, Viet Nam.{" "}
+            <span className="contactTitle">
+              <BsGeoAltFill className="icon location" />
+              Location:{" "}
+            </span>
+            590, CMT8, Ward 11, District 3, Ho Chi Minh City, Viet Nam.{" "}
           </p>
           <Container>
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.3252476306156!2d106.66372207476654!3d10.78638225901058!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752ed23c80767d%3A0x5a981a5efee9fd7d!2zNTkwIMSQLiBDw6FjaCBN4bqhbmcgVGjDoW5nIDgsIFBoxrDhu51uZyAxMSwgUXXhuq1uIDMsIFRow6BuaCBwaOG7kSBI4buTIENow60gTWluaCwgVmnhu4d0IE5hbQ!5e0!3m2!1svi!2s!4v1695005446322!5m2!1svi!2s"
+              src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d346.422414914226!2d106.66616510711152!3d10.786614588267454!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752ed2392c44df%3A0xd2ecb62e0d050fe9!2zRlBUIEFwdGVjaCBIQ00gMSAtIEjhu4cgVGjhu5FuZyDEkMOgbyBU4bqhbyBM4bqtcCBUcsOsbmggVmnDqm4gUXXhu5FjIFThur8gKFNpbmNlIDE5OTkp!5e0!3m2!1svi!2sus!4v1697291645775!5m2!1svi!2sus"
               width="90%"
               height={300}
               style={{ border: 0 }}

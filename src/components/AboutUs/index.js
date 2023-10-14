@@ -8,11 +8,12 @@ import Guarantee from './Detail/Guarantee';
 import Privacy from './Detail/PrivacyPolicy';
 import Term from './Detail/TermOfUse';
 import Payment from './Detail/Payments';
+import ScrollCache from "../ScrollToTop/ScrollToTop";
 
 function index() {
   return (
     <div>
-      
+      <ScrollCache/>
       <Tabs
       defaultActiveKey="about"
       id="justify-tab-example"
