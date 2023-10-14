@@ -28,7 +28,7 @@ field, the company decides to launch a website where people will get all the
 information about the various products available with them easily.</p>
 <a href="https://github.com/Nguyen99QT/eyeonic" target="_bland">Explore the source >> <a/>
   <br/><br/>
-<a href="https://github.com/Nguyen99QT/eyeonic/tree/main/Review" target="_blank">Explore the documents >></a>
+<a href="https://github.com/Nguyen99QT/eyeonic/tree/main/Review" {:target="_blank" rel="noopener"}>Explore the documents >></a>
   <br/>
   <br/>
   <div>
