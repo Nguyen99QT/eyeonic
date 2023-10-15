@@ -4,8 +4,9 @@ import Products from "./../Product.json";
 import { Col, Container, Row, Card, Button, Alert } from "react-bootstrap";
 import { Link, useParams } from "react-router-dom";
 
-// import { useState } from "react";
-// import Pagination from "../../Pagination/Pagination";
+import { useState } from "react";
+import Pagination from "../../Pagination/Pagination";
+import Scroll from '../../ScrollToTop/ScrollToTop'
 
 
 function Search() {
@@ -32,17 +33,18 @@ function Search() {
     }
   } );
 
-  // const PER_PAGE = 8;
-  // const [currentPage, setCurrentPage] = useState(0);
-  // const handlePageClick = ({ selected: selectedPage }) => {
-  //   setCurrentPage(selectedPage);
-  // };
-  // const offSet = currentPage * PER_PAGE;
-  // const currentPageData = ItemDescription.slice(offSet, offSet + PER_PAGE);
-  // const pageCount = Math.ceil(items.length / PER_PAGE);
+  const PER_PAGE = 8;
+  const [currentPage, setCurrentPage] = useState(0);
+  const handlePageClick = ({ selected: selectedPage }) => {
+    setCurrentPage(selectedPage);
+  };
+  const offSet = currentPage * PER_PAGE;
+  const currentPageData = items.slice(offSet, offSet + PER_PAGE);
+  const pageCount = Math.ceil(items.length / PER_PAGE);
 
   return (
     <Container>
+      <Scroll/>
       {items.length === 0 && (
         <Row className="mt-5 mb-5">
           <Alert variant="danger">
@@ -52,7 +54,7 @@ function Search() {
       )}
 
       <Row className="mt-3 ">
-        {items.map((item) => (
+        {currentPageData.map((item) => (
           <Col xs={12} sm={6} md={4} lg={3} key={item.Img.ID}>
             <Card className="ml-3 mt-2 mb-3 product-card">
               <Card.Img variant="top" src={item.Img.Src.img1} />
@@ -75,9 +77,9 @@ function Search() {
           </Col>
         ))}
       </Row>
-      {/* <Row>
+      <Row>
         <Pagination pageCount={pageCount} handlePageClick={handlePageClick} />
-      </Row> */}
+      </Row>
     </Container>
   );
 }
